@@ -1,0 +1,10 @@
+1. When Office user Select a Property, Automaticaly all Property Details, Address, Property User Info will come Behind The Screen
+
+3. When a office user search a name and select the the name, all the user info, property Details, all previous payment and Due payment Status will come appear
+
+4. Property Due List In a Page
+
+5. Recent Payment List Details in Home Page And Approve Them
+
+6. Office User Profile Page
+
